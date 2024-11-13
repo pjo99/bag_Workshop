@@ -1,1 +1,1 @@
-get-process -name "*intune*"
+get-process -name "*intunte*"
